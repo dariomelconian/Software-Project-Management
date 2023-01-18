@@ -1,6 +1,6 @@
 # Software-Project-Management
 
-This repository is a combination of assignments from CS 3377, Software Project Management at Western University.
+This repository is a combination of individual assignments as well as one final group project from CS 3377, Software Project Management at Western University.
 
 Assignment topics include:
 
